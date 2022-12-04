@@ -14,6 +14,8 @@ This script was brought you by m1ke and friends. Be sure to subscribe to the You
 
 Script:
 
-scripthere
+
+	getgenv().erwinCycle = true
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Anime%20Adventures/Auto%20Erwin%20Buff%20Cycle.lua"))()
 
 Enjoy!
