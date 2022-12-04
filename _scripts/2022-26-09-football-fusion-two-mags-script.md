@@ -3,7 +3,7 @@ title: "Football Fusion Two Mags Script"
 collection: scripts
 permalink: /scripts/2022-26-09-football-fusion-two-mags-script
 excerpt: 'This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!'
-date: 2022-26-09
+date: 2022-09-26
 venue: 'Journal 1'
 paperurl: 'https://www.roblox.com/games/8204899140/Football-Fusion-2'
 citation: 'Mstirs Archives'
