@@ -1,7 +1,7 @@
 ---
 title: "script pro"
 collection: scripts
-permalink: /scripts/2010-10-01-paper-title-number-2
+permalink: /scripts/2010-10-01-script-pro
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
