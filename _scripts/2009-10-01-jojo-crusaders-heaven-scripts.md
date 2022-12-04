@@ -1,7 +1,7 @@
 ---
 title: "Jojo Crusaders Heaven Scripts"
 collection: scripts
-permalink: /scripts/2009-10-01-jojo-crusaders-heaven-scripts
+permalink: /scripts/2022-09-08-jojo-crusaders-heaven-scripts
 excerpt: 'This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!'
 date: 2022-09-08
 venue: 'Journal 1'
