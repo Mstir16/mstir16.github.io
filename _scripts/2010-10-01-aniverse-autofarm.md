@@ -6,7 +6,7 @@ excerpt: 'This script was brought you by m1ke and friends. Be sure to subscribe 
 date: 2022-09-08
 venue: 'Journal 1'
 paperurl: 'https://www.roblox.com/games/6357903043/UPDATE-2-Aniverse'
-citation: 'Mstir's Archives'
+citation: 'Mstirs Archives'
 ---
 This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!
 
