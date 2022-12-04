@@ -14,6 +14,8 @@ This script was brought you by m1ke and friends. Be sure to subscribe to the You
 
 Script:
 
-scripthere
+    getgenv().MAGS = true
+    getgenv().MAGDISTANCE = 17
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Football%20Fusion%202/mags.lua"))()
 
 Enjoy!
