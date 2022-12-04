@@ -1,16 +1,16 @@
 ---
-title: "Anime Adventures Inf Erwin Buff"
+title: "Greenville Roadmap Dealership Autofarm"
 collection: scripts
-permalink: /scripts/2022-10-09-anime-adventures-inf-erwin-buff
+permalink: /scripts/2022-03-11-greenville-roadmap-dealership-autofarm
 excerpt: 'This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!'
-date: 2022-10-09
+date: 2022-03-11
 venue: 'Journal 1'
-paperurl: 'https://www.roblox.com/games/8304191830/UPD-Anime-Adventures'
+paperurl: 'https://www.roblox.com/games/891852901/Greenville'
 citation: 'Mstirs Archives'
 ---
 This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!
 
-[Game Link](https://www.roblox.com/games/8304191830/UPD-Anime-Adventures)
+[Game Link](https://www.roblox.com/games/891852901/Greenville)
 
 Script:
 
