@@ -34,8 +34,8 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
-publications
+scripts = pd.read_csv("scripts.tsv", sep="\t", header=0)
+scripts
 
 
 # ## Escape special characters
@@ -62,7 +62,7 @@ def html_escape(text):
 # In[5]:
 
 import os
-for row, item in publications.iterrows():
+for row, item in scripts.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
