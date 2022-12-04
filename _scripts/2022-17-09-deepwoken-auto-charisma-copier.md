@@ -14,6 +14,7 @@ This script was brought you by m1ke and friends. Be sure to subscribe to the You
 
 Script:
 
-scripthere
+    getgenv().CharismaAutoPaster = true
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Deepwoken/CharismaAutoPaster.lua"))()
 
 Enjoy!
