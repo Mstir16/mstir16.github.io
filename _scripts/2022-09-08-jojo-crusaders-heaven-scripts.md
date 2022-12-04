@@ -11,6 +11,7 @@ citation: 'Mstirs Archives'
 This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!
 
 [Game Link](https://www.roblox.com/games/6706152946/Halloween-Jojo-Crusaders-Heaven)
+[Discord](https://discord.gg/y7H2qGmNKd)
 
 Auto Use Arrows:
 
