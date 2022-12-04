@@ -6,7 +6,7 @@ excerpt: 'This script was brought you by m1ke and friends. Be sure to subscribe 
 date: 2022-10-09
 venue: 'Journal 1'
 paperurl: 'https://www.roblox.com/games/8304191830/UPD-Anime-Adventures'
-citation: 'Mstir's Archives'
+citation: 'Mstirs Archives'
 ---
 This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!
 
