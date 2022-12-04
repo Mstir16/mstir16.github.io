@@ -12,8 +12,19 @@ This script was brought you by m1ke and friends. Be sure to subscribe to the You
 
 [Game Link](https://www.roblox.com/games/6706152946/Halloween-Jojo-Crusaders-Heaven)
 
-Script:
+Auto Use Arrows:
 
-scripthere
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Jojo%3A%20Crusaders'%20Heaven/Auto%20Stand%20Farm.lua"))()
+
+Item Farm:
+
+    getgenv().ItemFarm = true
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Jojo%3A%20Crusaders'%20Heaven/Item%20Farm.lua"))()
+
+NPC Farm:
+
+    getgenv().NPCFarm = true
+    getgenv().NPCName = "DIO"
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Jojo%3A%20Crusaders'%20Heaven/NPC%20Farm.lua"))()
 
 Enjoy!
