@@ -14,6 +14,6 @@ This script was brought you by m1ke and friends. Be sure to subscribe to the You
 
 Script:
 
-scripthere
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Kengun%20Online/loafofbreadwithabowlofmikeandikes"))()
 
 Enjoy!
