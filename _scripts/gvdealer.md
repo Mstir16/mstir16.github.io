@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 2"
-collection: publications
+collection: scripts
 permalink: /scripts/greenville-dealership-autofarm
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
