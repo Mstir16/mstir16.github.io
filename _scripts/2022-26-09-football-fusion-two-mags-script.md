@@ -1,7 +1,7 @@
 ---
-title: "Football Fusion 2 Mags Script"
+title: "Football Fusion Two Mags Script"
 collection: scripts
-permalink: /scripts/2022-26-09-football-fusion-2-mags-script
+permalink: /scripts/2022-26-09-football-fusion-two-mags-script
 excerpt: 'This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!'
 date: 2022-26-09
 venue: 'Journal 1'
