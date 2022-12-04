@@ -202,14 +202,14 @@ defaults:
 #       comments: true
 #       share: true
 #       related: true
-# #   _pages
+#   _pages
 #   - scope:
 #       path: ""
 #       type: pages
 #     values:
 #       layout: single
 #       author_profile: true
-# #   _teaching
+  # _teaching
 #   - scope:
 #       path: ""
 #       type: teaching
@@ -218,7 +218,7 @@ defaults:
 #       author_profile: true
 #       share: true
 #       comments: true
-#   _publications
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -236,7 +236,7 @@ defaults:
 #       author_profile: true
 #       share: true
 #       comment: true
-#   # _talks
+  # _talks
 #   - scope:
 #       path: ""
 #       type: talks
