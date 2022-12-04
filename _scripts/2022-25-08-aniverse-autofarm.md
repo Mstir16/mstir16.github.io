@@ -14,6 +14,14 @@ This script was brought you by m1ke and friends. Be sure to subscribe to the You
 
 Script:
 
-scripthere
+    getgenv().Config = {
+      Gamemode = "Adventure",
+      Area = "Shell Island",
+      Stage = 1,
+      Difficulty = "Normal",
+      WhenFinished = "Replay",
+    }
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Aniverse/Autofarm.lua"))()
 
 Enjoy!
