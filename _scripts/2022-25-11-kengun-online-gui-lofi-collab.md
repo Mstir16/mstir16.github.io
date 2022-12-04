@@ -11,6 +11,7 @@ citation: 'Mstirs Archives'
 This script was brought you by m1ke and friends. Be sure to subscribe to the Youtube to be posted!
 
 [Game Link](https://www.roblox.com/games/8927008367/UPDATE-0-3-0-Kengun-Online)
+[Discord](https://discord.gg/y7H2qGmNKd)
 
 Script:
 
